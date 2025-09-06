@@ -32,7 +32,7 @@ We aim to empower startups, professionals, and students with **premium designs, 
 ---
 
 ## 📸 Sneak Peek
-![Banner](./assets/1.png)
+![Banner](./assets/3.png)
 
 ---
 
